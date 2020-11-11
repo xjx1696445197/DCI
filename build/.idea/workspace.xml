@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31dc37bd-3728-4f89-9283-574ae2b502d4" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dist.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../send-token(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../send-token-chmc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/node-prog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/node-prog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/css/app.0706bc1b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/css/vendor.c512a5c1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/app-2df53dc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/manifest-2df53dc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/vendor-2df53dc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node-prog.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/Asset.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/Asset.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/ChangeGoogleBind.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/ChangeGoogleBind.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/CurrencyTransfer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/CurrencyTransfer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/Importaddress.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/Importaddress.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/Verificationmnemonics.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/Verificationmnemonics.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/WalletCreate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/WalletCreate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/WalletList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/WalletList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/store/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/util/dip.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/util/dip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/util/txUtil.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/util/txUtil.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i8AA1LfBZwY4g0CLRj0EzZmRBH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31dc37bd-3728-4f89-9283-574ae2b502d4" name="默认更改列表" comment="" />
+      <created>1601278697205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601278697205</updated>
+      <workItem from="1601278700622" duration="597000" />
+      <workItem from="1602226621827" duration="303000" />
+      <workItem from="1602301796336" duration="597000" />
+      <workItem from="1602487111423" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
