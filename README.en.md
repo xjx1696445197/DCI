@@ -8,14 +8,15 @@ Software architecture description
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  npm install --save ethereumjs-tx@1.3.7
+    
+2.  npm install web3
+3.  npm install
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
+1.  按照报错安装缺少的依赖
+2.  npm run dev
 3.  xxxx
 
 #### Contribution
