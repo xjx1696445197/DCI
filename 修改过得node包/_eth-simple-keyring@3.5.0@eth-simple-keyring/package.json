@@ -1,0 +1,39 @@
+{
+  "name": "eth-simple-keyring",
+  "version": "3.5.0",
+  "description": "A simple standard interface for a series of Ethereum private keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MetaMask/eth-simple-keyring.git"
+  },
+  "keywords": [
+    "ethereum",
+    "keyring"
+  ],
+  "author": "Dan Finlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaMask/eth-simple-keyring/issues"
+  },
+  "homepage": "https://github.com/MetaMask/eth-simple-keyring#readme",
+  "dependencies": {
+    "eth-sig-util": "^2.5.0",
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-util": "^5.1.1",
+    "ethereumjs-wallet": "^0.6.0",
+    "events": "^1.1.1",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "ethereumjs-tx": "^2.1.0",
+    "mocha": "^5.2.0"
+  },
+  "__npminstall_done": "Fri Oct 30 2020 16:50:39 GMT+0800 (GMT+08:00)",
+  "_from": "eth-simple-keyring@3.5.0",
+  "_resolved": "https://registry.npm.taobao.org/eth-simple-keyring/download/eth-simple-keyring-3.5.0.tgz"
+}
